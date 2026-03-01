@@ -1,0 +1,21 @@
+
+> my-project@0.1.0 dev /home/ubuntu/esm-magar
+> next dev
+
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://169.254.0.21:3000
+
+✓ Starting...
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+✓ Ready in 625ms
+ GET / 200 in 3.0s (compile: 2.7s, render: 351ms)
+⚠ Cross origin request detected from 3000-ic8hf7wkm3tu3v54kqjql-83ebfc9c.sg1.manus.computer to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ GET /?locale=ar 200 in 111ms (compile: 5ms, render: 106ms)
+ GET /?locale=ar 200 in 91ms (compile: 5ms, render: 85ms)
+ GET / 200 in 100ms (compile: 4ms, render: 96ms)
