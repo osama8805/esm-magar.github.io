@@ -19,3 +19,20 @@ Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allow
  GET /?locale=ar 200 in 111ms (compile: 5ms, render: 106ms)
  GET /?locale=ar 200 in 91ms (compile: 5ms, render: 85ms)
  GET / 200 in 100ms (compile: 4ms, render: 96ms)
+⚠ Found a change in next.config.mjs. Restarting the server to apply the changes...
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://169.254.0.21:3000
+
+✓ Starting...
+✓ Ready in 1340ms
+⚠ Cross origin request detected from 3000-ic8hf7wkm3tu3v54kqjql-83ebfc9c.sg1.manus.computer to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ GET / 200 in 2.5s (compile: 2.1s, render: 435ms)
+⚠ Found a change in next.config.mjs. Restarting the server to apply the changes...
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://169.254.0.21:3000
+
+✓ Starting...
+✓ Ready in 584ms
